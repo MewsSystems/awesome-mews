@@ -1,6 +1,6 @@
 # Awesome Mews
 
-A curated list of Mews resources and recommended reading.
+A curated list of resources and recommended reading we at Mews really like and which are aligned with our philosophy and vision.
 
 ## Articles
 
