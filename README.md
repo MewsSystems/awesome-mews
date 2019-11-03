@@ -24,7 +24,7 @@ A curated list of Mews resources and recommended reading.
     - Grat blog which every week or two summarizes all interesting things that happened in the world of high scalability. Highly recommended.
 - **[Fsharp for run and profit](https://fsharpforfunandprofit.com/)**
     - Recommended for anybody interested about functional programming, packed with talks and examples.
-- **[Ploeh blog](http://blog.ploeh.dk/archive/http://blog.ploeh.dk/archive/)**
+- **[Ploeh blog](http://blog.ploeh.dk/archive/)**
     - More advanced blog about FP.
 
 ## Courses
