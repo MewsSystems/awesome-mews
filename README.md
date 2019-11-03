@@ -4,7 +4,7 @@ A curated list of Mews resources and recommended reading.
 
 ## Articles
 
-- **[Google Code Review Developmer Guide](https://google.github.io/eng-practices/review/)
+- **[Google Code Review Developmer Guide](https://google.github.io/eng-practices/review/)**
     - Extremely good guide on what to do both as author and also as review of pull requests.
 - **[The Product Development Lifecycle: Roles & Responsibilities](https://productcoalition.com/the-product-development-lifecycle-roles-responsibilities-5ba8ff4e1dc0)**
     - Brief introduction into roles and responsibilities within crossfunctional teams.
