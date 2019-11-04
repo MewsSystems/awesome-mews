@@ -21,12 +21,19 @@ A curated list of resources and recommended reading we at Mews really like and w
 ## Blogs
 
 - **[High Scalability](http://highscalability.com/)**
-    - Grat blog which every week or two summarizes all interesting things that happened in the world of high scalability. Highly recommended.
+    - Great blog which every week or two summarizes all interesting things that happened in the world of high scalability. Highly recommended.
 - **[Fsharp for run and profit](https://fsharpforfunandprofit.com/)**
     - Recommended for anybody interested about functional programming, packed with talks and examples.
 - **[Ploeh blog](http://blog.ploeh.dk/archive/)**
     - More advanced blog about FP.
 
+## Newsletters
+
+- **[JavaScript Weekly](https://javascriptweekly.com/)**
+    - Weekly newsletters about news in JavaScript. Highly recommended to keep up with latest news and changes.
+- **[React Status](https://react.statuscode.com/)**
+    - Weekly newsletters about news in React. Highly recommended to keep up with latest news and changes.
+    
 ## Courses
 
 - **[Pluralsight C#](https://www.pluralsight.com/paths/csharp)**
