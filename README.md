@@ -47,6 +47,28 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Even more detailed book not just about C# but mainly about the common language runtime. Recommended to everyone who is already familiar with C# essentials.
 - **Functional programming in Scala**
     - You can ignore Scala, because this book is not about it. This book is about functional programming which we strongly prefer to use in our code. You don't have to just learn https://github.com/siroky/FuncSharp, you get to understand its concepts and many more by reading this book. This is a must read if you are not familiar with FP at all.
+    
+### Computer science
+
+Common books about CS, without a strong reference to a particular language. How to become a better developer.
+
+- **Code Complete** by Steve McConnell
+    - One of the best practical guides to programming. A must-read for all the developers aiming to writing clean code.
+- **Clean Code** by Robert C. Martin
+    - A nice practical how to guide: writing maintainable and readable code, practicing TDD, turning bad code into good code. Vivid and easy to read language.
+- **The Clean Coder** by Robert C. Martin
+    - Not to be confused with the previous book, this one is more about coder itself. It's worth reading **at least** for an alternative view on "the flow zone" – state that many programmers are looking for.
+- **The Pragmatic Programmer: From Journeyman to Master** by David Thomas, Andrew Hunt
+    - While it can be considered more "philosophical" or "theoretical" comparing to the previous books, it makes you to think, to reflex and finally to grow. Some citations:
+        - Great software today is often preferable to perfect software tomorrow.
+        - Whatever the reason, maintenance is not a discrete activity, but a routine part of the entire development process.
+        - Don't rely on the properties of things you can't control.
+        - Details mess up our pristine code...
+        - So you go to your boss or client and say, "This code works, but I need another week to refactor it." We can't print their reply.
+        - All software you write will be tested—if not by you and your team, then by the eventual users—so you might as well plan on testing it thoroughly.
+        - The big surprises come as you discover what typical means.
+        - Once a human tester finds a bug, it should be the last time a human tester finds that bug. The automated tests should be modified to check for that particular bug from then on...
+    
    
 ## Misc
 
