@@ -8,6 +8,8 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Extremely good guide on what to do both as author and also as review of pull requests.
 - **[The Product Development Lifecycle: Roles & Responsibilities](https://productcoalition.com/the-product-development-lifecycle-roles-responsibilities-5ba8ff4e1dc0)**
     - Brief introduction into roles and responsibilities within crossfunctional teams.
+- **[Developer roadmaps](https://roadmap.sh/roadmaps)**
+    - Interesting visualization of technologies and knowledge to learn on a way to become frontend or backend developer.
 
 ## Videos
 
