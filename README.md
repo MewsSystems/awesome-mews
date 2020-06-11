@@ -10,6 +10,8 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Brief introduction into roles and responsibilities within crossfunctional teams.
 - **[Developer roadmaps](https://roadmap.sh/roadmaps)**
     - Interesting visualization of technologies and knowledge to learn on a way to become frontend or backend developer.
+- **[Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)**
+    - We've got inspired by the Etsy's approach to engineering competencies.
 
 ## Videos
 
@@ -49,6 +51,9 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Even more detailed book not just about C# but mainly about the common language runtime. Recommended to everyone who is already familiar with C# essentials.
 - **Functional programming in Scala**
     - You can ignore Scala, because this book is not about it. This book is about functional programming which we strongly prefer to use in our code. You don't have to just learn https://github.com/siroky/FuncSharp, you get to understand its concepts and many more by reading this book. This is a must read if you are not familiar with FP at all.
+- **Effective Kotlin**
+    - [Effective Kotlin](https://leanpub.com/effectivekotlin) summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
+    - Best of all is that our App guy [Kirill](https://github.com/ookami-kb) was the reviewer of this book.
     
 ### Computer science
 
