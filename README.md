@@ -16,11 +16,11 @@ A curated list of resources and recommended reading we at Mews really like and w
 ## Videos
 
 - **[Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)**
-    - Pragmatic approach t ofunctional programming, starts with simples patterns and progresses towards more advanced ones.
+    - Pragmatic approach to functional programming, starts with simples patterns and progresses towards more advanced ones.
 - **[John De Goes - 12 Steps To Better Scala (Part I)](https://www.youtube.com/watch?v=71yhnTGw0hY)**
-    - Scala FP advocate talks about FP patterns and compares the to standard OO patterns.
+    - Scala FP advocate talks about FP patterns and compares them to standard OO patterns.
 - **[Talking Architecture With Kevlin Henney](https://www.youtube.com/watch?v=Y6B4jYBR4Y8)**
-    - More philosophical talk on minimalism and simplicity in programming, which are on of our main principles.
+    - More philosophical talk on minimalism and simplicity in programming, which are one of our main principles.
 
 ## Blogs
 
