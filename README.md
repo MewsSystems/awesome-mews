@@ -18,7 +18,7 @@ A curated list of resources and recommended reading we at Mews really like and w
     - It's not just about programming. It's about career growth too and this article can help you understand what's important to focus on.
 - **[Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)**
     - Code reviews are part of our DNA so how to make sure we're not toxic?
-- **[Fintech Scales Vertical SaaS](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)
+- **[Fintech Scales Vertical SaaS](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)**
     - SaaS yes, Fintech more yes!
 
 ## Videos
