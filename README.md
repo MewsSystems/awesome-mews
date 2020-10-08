@@ -12,6 +12,14 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Interesting visualization of technologies and knowledge to learn on a way to become frontend or backend developer.
 - **[Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html)**
     - We've got inspired by the Etsy's approach to engineering competencies.
+- **[The Hard Truth About Innovative Cultures](https://hbr.org/2019/01/the-hard-truth-about-innovative-cultures)**
+    - "Failure should not be celebrated, learning should be celebrated".
+- **[The Engineer’s Guide to Career Growth — Advice from My Time at Stripe and Facebook](https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/)**:
+    - It's not just about programming. It's about career growth too and this article can help you understand what's important to focus on.
+- **[Unlearning toxic behaviors in a code review culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)**
+    - Code reviews are part of our DNA so how to make sure we're not toxic?
+- **[Fintech Scales Vertical SaaS](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)
+    - SaaS yes, Fintech more yes!
 
 ## Videos
 
