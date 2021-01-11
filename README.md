@@ -38,6 +38,15 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Recommended for anybody interested about functional programming, packed with talks and examples.
 - **[Ploeh blog](http://blog.ploeh.dk/archive/)**
     - More advanced blog about FP.
+- **Additional programming principles blogs**
+    - https://medium.freecodecamp.org
+    - http://softwareengineeringdaily.com
+    - http://www.lightbend.com/blog
+    - https://www.sw-samuraj.cz/ (CZ)
+    - https://blog.acolyer.org
+    - https://techblog.bozho.net
+    - https://www.thekua.com/atwork/
+    - http://engineering.indeedblog.com
 
 ## Newsletters
 
