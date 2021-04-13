@@ -20,6 +20,8 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Code reviews are part of our DNA so how to make sure we're not toxic?
 - **[Fintech Scales Vertical SaaS](https://a16z.com/2020/08/04/fintech-scales-vertical-saas/)**
     - SaaS yes, Fintech more yes!
+- **[Library patterns: Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)
+    - Key concepts when designing a framework and why you shouldn't!
 
 ## Videos
 
