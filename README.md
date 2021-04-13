@@ -22,6 +22,8 @@ A curated list of resources and recommended reading we at Mews really like and w
     - SaaS yes, Fintech more yes!
 - **[Library patterns: Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/)**
     - Key concepts when designing a framework and why you shouldn't!
+- **[Functional design](https://degoes.net/articles/functional-design)**
+    - What is functional design?
 
 ## Videos
 
