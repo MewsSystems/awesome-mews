@@ -6,6 +6,8 @@ A curated list of resources and recommended reading we at Mews really like and w
 
 - **[Google Code Review Developer Guide](https://google.github.io/eng-practices/review/)**
     - Extremely good guide on what to do both as author and also as review of pull requests.
+- **[Google Technical Writing Guide](https://developers.google.com/tech-writing/one)**
+    - A collection of great tips and things to keep in mind when writing documentation.
 - **[The Product Development Lifecycle: Roles & Responsibilities](https://productcoalition.com/the-product-development-lifecycle-roles-responsibilities-5ba8ff4e1dc0)**
     - Brief introduction into roles and responsibilities within crossfunctional teams.
 - **[Developer roadmaps](https://roadmap.sh/roadmaps)**
