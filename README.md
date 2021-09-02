@@ -44,6 +44,8 @@ A curated list of resources and recommended reading we at Mews really like and w
     - Recommended for anybody interested about functional programming, packed with talks and examples.
 - **[Ploeh blog](http://blog.ploeh.dk/archive/)**
     - More advanced blog about FP.
+- **[The morning brew](https://blog.cwa.me.uk/)** 
+    - Daily portion of links to interesting articles from the world of .NET development. Concise, easily digestable and hand picked for you by Chris Alcock.
 - **Additional programming principles blogs**
     - https://medium.freecodecamp.org
     - http://softwareengineeringdaily.com
@@ -77,7 +79,7 @@ A curated list of resources and recommended reading we at Mews really like and w
 - **Effective Kotlin**
     - [Effective Kotlin](https://leanpub.com/effectivekotlin) summarizes the best practices and experiences of the Kotlin community, together with a deep explanation of some lesser-known Kotlin functionalities. All of the best practices are presented as simple rules with detailed explanations.
     - Best of all is that our App guy [Kirill](https://github.com/ookami-kb) was the reviewer of this book.
-    
+
 ### Computer science
 
 Common books about CS, without a strong reference to a particular language. How to become a better developer.
@@ -98,8 +100,22 @@ Common books about CS, without a strong reference to a particular language. How 
         - All software you write will be tested—if not by you and your team, then by the eventual users—so you might as well plan on testing it thoroughly.
         - The big surprises come as you discover what typical means.
         - Once a human tester finds a bug, it should be the last time a human tester finds that bug. The automated tests should be modified to check for that particular bug from then on...
+- **Pragmatic Thinking and Learning: Refactor Your Wetware** by Andrew Hunt
+    - Same philosophy as The pragmatic programmer, but this time focusing on the mental and social aspects.
+    - Topics include:
+        - The aproach to learning based on different skill levels
+        - How does the brain actually process information and how to leverage that
+        - Cognitive biases and how to avoid them
+        - Managing focus
+- **The Art of Unit Testing** by Roy Osherove
+    - Great book about unit testing covering all why's, how's, frameworks and best practices based on real-world experience.
     
-   
+### Leadership & managment
+
+- **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink and Leif Babin
+    - Interesting take on how to aproach leadership and make winning a habit.
+    - Each topic contains theoretical intro, real world example from the military world and a real world example from business.
+
 ## Misc
 
 - **[Computer Science Rankings](http://csrankings.org/)**
