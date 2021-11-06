@@ -109,12 +109,18 @@ Common books about CS, without a strong reference to a particular language. How 
         - Managing focus
 - **The Art of Unit Testing** by Roy Osherove
     - Great book about unit testing covering all why's, how's, frameworks and best practices based on real-world experience.
+- **97 things every programmer should know**
+  - A collection of 97 short essays by industry veterans where they share the knowledge they have accrued over the years.
+- **97 things every software architect should know**
+    - Same as above only targeted for sw architects.
     
 ### Leadership & managment
 
 - **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink and Leif Babin
     - Interesting take on how to aproach leadership and make winning a habit.
     - Each topic contains theoretical intro, real world example from the military world and a real world example from business.
+- **Elastic leadership** by Roy Osherove
+    - Great book about leadership in sw (but not only sw) engineering teams by an industry legend.
 
 ## Misc
 
